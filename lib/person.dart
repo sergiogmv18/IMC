@@ -1,8 +1,10 @@
 class Person {
   String? name;
-  double? weight;
-  double? height;
+  double weight;
+  double height;
 
+  Person({this.name, this.height = 0, this.weight = 0});
+  
   // GET
   getName(){
     return name;
