@@ -17,5 +17,5 @@ This project aims to calculate the Body Mass Index (BMI) and display a person's 
 To run this project on your system, you need to have Dart installed. Here are the commands you can use:
 
 1. To run the program, use the following command:
-   dart run
-   dart test
+**dart run**  
+**dart test**
